@@ -50,7 +50,7 @@
 //Q8
 // alert("▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬")
 
-// complete chapter 3
+// complete chapter 2
 
 
 // chapter-3
@@ -69,11 +69,11 @@
 
 // document.write(brithYear +"<br> date type of declear variable is  number")
 // Q4
-// alert("www.xyz clothing.com")
-// var a="Visit's Name"
-// var b=("product title")
-// var c=("Quantity i.e how many visitor product when to order")
+alert("www.xyz clothing.com")
+var a="Visit's Name"
+var b=("product title")
+var c=("Quantity i.e how many visitor product when to order")
 
 
 
-// document.write("<b>Jhon Doe</b> order <b>5 shirts</b>s on xyz clothing store")
+document.write("<b>Jhon Doe</b> order <b>5 shirts</b>s on xyz clothing store")
